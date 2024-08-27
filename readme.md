@@ -71,3 +71,4 @@ For any queries regarding this workshop series, please contact [Your Contact Inf
 
 We're excited to embark on this journey of project management education. Together, we'll build a community of skilled project managers equipped to handle the challenges of modern, distributed work environments.
 
+My edits I am glad to be on the team.
