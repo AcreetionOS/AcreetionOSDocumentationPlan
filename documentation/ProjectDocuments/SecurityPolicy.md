@@ -13,11 +13,11 @@
 
 ## 1. Introduction
 
-The security of Accretion Linux is a top priority. This document outlines our security policy and provides guidelines for reporting vulnerabilities, receiving security updates, and following best practices.
+The security of AcreetionOS Linux is a top priority. This document outlines our security policy and provides guidelines for reporting vulnerabilities, receiving security updates, and following best practices.
 
 ## 2. Supported Versions
 
-We provide security updates for the following versions of Accretion Linux:
+We provide security updates for packages within the AcreetionOS Linux Respositories:
 
 | Version | Supported          |
 | ------- | ------------------ |

@@ -1,5 +1,7 @@
 # Accretion Linux 1.2.0 Release Notes
 
+*DO RIGHT BEFORE RELEASE*
+
 Release Date: July 15, 2024
 
 ## Table of Contents

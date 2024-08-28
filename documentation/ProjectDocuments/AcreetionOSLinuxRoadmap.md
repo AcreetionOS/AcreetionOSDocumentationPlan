@@ -1,14 +1,14 @@
 # Accretion Linux Project Roadmap
 
-This roadmap outlines the planned development of Accretion Linux over the next six months, with a focus on achieving our Minimum Viable Product (MVP) within the first two months.
+This roadmap outlines the planned development for AcreetionOS Linux over the next six months, with a focus on achieving our Minimum Viable Product (MVP) within the first two months.
 
 ## Phase 1: MVP (Months 1-2)
 
 ### Month 1
-- [ ] Set up basic build infrastructure
-- [ ] Create initial live boot environment
-- [ ] Implement core system components
-- [ ] Develop custom installer script
+- [*] Set up basic build infrastructure
+- [WIP] Create initial live boot environment
+- [WIP] Implement core system components
+- [WIP] Develop custom installer script
 
 ### Month 2
 - [ ] Integrate basic package management system

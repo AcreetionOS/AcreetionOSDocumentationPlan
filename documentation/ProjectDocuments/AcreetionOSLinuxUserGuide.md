@@ -1,4 +1,7 @@
-# Accretion Linux User Guide
+# AcreetionOS Linux User Guide
+
+***Export to website***
+
 
 ## Table of Contents
 
@@ -15,7 +18,7 @@
 
 ## 1. Introduction
 
-Welcome to Accretion Linux! This guide will help you get started with your new operating system and provide information on its key features and usage.
+Welcome to AcreetionOS Linux! This guide will help you get started with your new operating system and provide information on its key features and usage.
 
 ## 2. System Requirements
 
@@ -59,31 +62,32 @@ Accretion Linux uses a customized version of XFCE as its default desktop environ
 
 ## 7. Software Management
 
-Accretion Linux uses a custom package manager called AccretionPM.
+AcreetionOS uses Pacman as its package manager in the CLI. For GUI interaction, AcreetionOS uses Pamac.
 
-- Open the Software Center from the application menu to browse and install software.
+- Open Pamac from the application menu to browse and install software.
 - Use the terminal for advanced package management:
-  - Install a package: `sudo apm install package_name`
-  - Remove a package: `sudo apm remove package_name`
-  - Update the system: `sudo apm update && sudo apm upgrade`
+  - Install a package: `sudo pacman -Sy package_name`
+  - Remove a package: `sudo pacman -R package_name`
+  - Update the system: `sudo pacman -Syyu`
 
 ## 8. Networking
 
 - Click the network icon in the system tray to manage connections.
 - For Wi-Fi, select your network and enter the password when prompted.
 - For advanced network configuration, use the Network Manager tool in System Settings.
+- In the case you are within a TTY, run ***'nmcli'*** for a TUI utility.
 
 ## 9. Troubleshooting
 
-- If you encounter issues, check our FAQ at https://accretionlinux.org/faq
-- For graphics issues, try booting in safe mode by selecting it from the boot menu.
-- For package conflicts, use `sudo apm check` to verify system integrity.
-
+- If you encounter issues, check our FAQ at [acreetionos.org]("").
+- For graphics issues, go the github found at [Github]("https://github.com/AcreetionOS") or [Gitea]("https://darrengames.ddns.net:30008/") and submit and issue.
 ## 10. Support and Community
 
-- Official forums: https://forums.accretionlinux.org
-- IRC channel: #accretion on irc.freenode.net
-- Bug reports: https://gitea.accretionlinux.org/accretion/issues
-- Wiki: https://wiki.accretionlinux.org
+- Official forums: [acreetionos.org/forum]("")
+- Official Wiki: [wiki.acreetionos.org/]("") or the [Github Wiki Mirror.]("https://github.com/AcreetionOS/Wiki.git")
+- IRC channel: [IRC]("")
+- Discord Server: [Discord]("")
+- Bug reports: [Github]("https://github.com/AcreetionOS/Wiki") or [Gitea]("https://darrengames.ddns.net:30008/")
+- Wiki: https://wiki.acreetionos.org
 
-Thank you for choosing Accretion Linux. We hope you enjoy using our distribution!
+Thank you for choosing AcreetionOS Linux. We hope you enjoy using our distribution!
