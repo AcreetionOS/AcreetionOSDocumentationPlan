@@ -41,7 +41,7 @@ Our current goal is to release a stable distribution by the end of 2026. Check o
 
 For questions, suggestions, or support, please [open an issue](https://gitea.example.com/accretion-linux/issues) on our Gitea repository.
 
-Thank you for your interest in AccretionOS Linux!
+Thank you for your interest in AcreetionOS Linux!
 
 
 ## Definitions:
