@@ -46,4 +46,4 @@ Thank you for your interest in AccretionOS Linux!
 
 ## Definitions:
 
-Parallel Distribution: A distribution similar to, but having a different goal and future goal set.
+*Parallel Distribution: A distribution similar to, but having a different goal and future goal set.
