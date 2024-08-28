@@ -1,4 +1,4 @@
-# Acreetion ISO Build Guide
+# AcreetionOS Linux ISO Build Guide
 
 1. Pull source from ssh://git@darrengames.ddns.net:30009/cobra3282000/AcreetionOS.git or git@github.com:AcreetionOS/AcreetionOS.git by running in a terminal window with  Ctrl + Alt + T: 
 
