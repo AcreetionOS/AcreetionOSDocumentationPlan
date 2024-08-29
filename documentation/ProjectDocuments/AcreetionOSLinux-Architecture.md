@@ -32,7 +32,7 @@ AcreetionOS Linux follows a modular architecture, built on top of the Linux kern
 *Lightdm* \
 *timeshift* \
 *Pamac Update Service*
-
+    
 
 ### Package Manager
 *Pacman, AUR, Flatpak* 
@@ -124,7 +124,7 @@ This architecture is designed to be modular and flexible, allowing for easy cust
 ## 7. Build and Release Process for Packages.
 Issue Description
 
-The AcreetionOS Linux Project uses build machines, virtual machines, Docker containers, and more to build build packages and test packages. Those containers pull source code and build packages using makepkg [https://wiki.archlinux.org/title/Makepkg]. Each day the containers pull from the project maintainers repositories of the packages below: 
+The AcreetionOS Linux Project uses build machines, virtual machines, Docker containers, and more to build packages and test packages. Those containers pull source code and build packages using makepkg [https://wiki.archlinux.org/title/Makepkg]. Each day the containers pull from the project maintainers repositories of the packages below: 
 
 alsa-firmware
 alsa-plugins
