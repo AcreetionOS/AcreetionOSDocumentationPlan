@@ -119,8 +119,6 @@ NetworkManager handles network connections, with a custom GUI front-end for easy
 This architecture is designed to be modular and flexible, allowing for easy customization and extension as the project evolves.
 
 ## 7. Build and Release Process for Packages.
-@jajunk, This is what I am needing for our project to be successful.
-
 Issue Description
 
 The AcreetionOS Linux Project uses build machines, virtual machines, Docker containers, and more to build build packages and test packages. Those containers pull source code and build packages using makepkg [https://wiki.archlinux.org/title/Makepkg]. Each day the containers pull from the project maintainers repositories of the packages below: 
@@ -281,7 +279,7 @@ mc
 mdadm
 meld
 memtest86+
-memtest86+-efi
+memtest86+-efi start up service thing*
 mesa
 mesa-utils
 mesa-vdpau
@@ -290,7 +288,7 @@ mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
 mlocate
-modemmanager
+modemmanager start up service thing*
 mtools
 nano
 nano-syntax-highlighting
@@ -330,7 +328,7 @@ openssl
 openvpn
 os-prober
 pacman-contrib
-partclone
+partclone start up service thing*
 parted
 partimage
 partitionmanager
@@ -339,7 +337,7 @@ pcsclite
 pdfgrep
 perl
 persepolis
-pipewire
+pipewire start up service thing*
 pipewire-alsa
 pipewire-audio
 pipewire-docs
