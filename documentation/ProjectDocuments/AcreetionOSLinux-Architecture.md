@@ -29,9 +29,9 @@ AcreetionOS Linux follows a modular architecture, built on top of the Linux kern
 ***Cinnamon***, *Mate, XFCE*
 
 ### System Services 
-*Lightdm*
-*timeshift*
-*Pamac update*
+*Lightdm* \
+*timeshift* \
+*Pamac Update Service*
 
 
 ### Package Manager
