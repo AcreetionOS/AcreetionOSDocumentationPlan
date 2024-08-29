@@ -21,6 +21,9 @@ AcreetionOS Linux follows a modular architecture, built on top of the Linux kern
 |            |xarchiver
 |            |xplayer
 |            |pix 
+...
+[Full package list]("https://darrengames.ddns.net:30008/cobra3282000/AcreetionOS/src/branch/main/packages.x86_64")
+
 
 ### Desktop Environment
 ***Cinnamon***, *Mate, XFCE*
