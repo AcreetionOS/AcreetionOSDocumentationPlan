@@ -1,7 +1,7 @@
 # AcreetionOS Linux: Architecture Overview
 
 ## 1. Introduction
-[Summerize when the rest of the document is finished]
+The AcreetionOS Linux project is an x86_64 as of 2024. It supports basic packages for the user environment stable, but it does not add bloat, but instead gives the user choice on what they would like to download for their own usecase.
 
 ## 2. System Architecture
 
@@ -295,7 +295,7 @@ modemmanager start up service thing*
 mtools
 nano
 nano-syntax-highlighting
-nemo-emblems
+nemo-emblemsbuild
 nemo-fileroller
 nemo-pastebin
 nemo-preview
@@ -312,7 +312,7 @@ ndisc6
 net-tools
 netctl
 nfs-utils
-nftables
+nftablesbuild
 nilfs-utils
 nmap
 ntfs-3g
